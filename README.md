@@ -20,8 +20,8 @@
 # **LEGAL NOTE** ⚠️
 
 
- - **Bitcoin (BTC) Price Prediction Using Deep Learning project and its findings, conclusions and models are STRICTLY NOT FINANCIAL ADVICE in any manner.
+ - **Bitcoin (BTC) Price Prediction Using Deep Learning project and its findings, conclusions and models are STRICTLY NOT FINANCIAL ADVICE in any manner.**
  
  
  
- - **ANY FINDINGS AND PREDICTIONS DERIVED FROM THIS MODEL IS ONLY FOR EDUCATIONAL, LEARNING AND RESEARCH PURPOSES.
+ - **ANY FINDINGS AND PREDICTIONS DERIVED FROM THIS MODEL IS ONLY FOR EDUCATIONAL, LEARNING AND RESEARCH PURPOSES.**
